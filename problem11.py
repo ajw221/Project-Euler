@@ -75,4 +75,3 @@ def problem11():
     allArrays = horizontals + verticals + diagonalsLR_TB + diagonalsRL_BT + diagonalsRL_TB + diagonalsLR_BT
     allArrays.sort()
     return allArrays[len(allArrays)-1]
-print(problem11())
