@@ -41,4 +41,3 @@ def problem22():
         sum+=(word*track)
         track+=1
     return sum
-print(problem22())
