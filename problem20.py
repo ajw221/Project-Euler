@@ -5,4 +5,3 @@ def problem20():
     for i in num:
         sum+=int(i)
     return sum
-print(problem20())
